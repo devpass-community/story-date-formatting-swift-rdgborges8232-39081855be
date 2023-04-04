@@ -24,3 +24,4 @@ public struct DateFormatting {
         dateFormatter.dateFormat = "dd/MM/yyyy"
         return dateFormatter.date(from: dateString)
     }
+}
